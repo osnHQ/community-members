@@ -56,7 +56,7 @@ Wait for the repository maintainers to review your pull request. Once approved, 
 ### Step 9: Check the Result
 After your changes are merged, you can check the result by visiting the following URL:
 
-https://github.com/OpenSources-Network/dev-community/all
+https://opensources.network/dev-community/all
 
 Congratulations! You have successfully made your first contribution to the OpenSources Network Community Members repository.
 
