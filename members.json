@@ -2,16 +2,25 @@
   {
     "name": "Sujith PS",
     "githubId": "sujithps",
+    "discordId": "trigondev",
     "avatar": "/avatars/sujithps.png"
   },
   {
     "name": "Lulzx",
     "githubId": "lulzx",
+    "discordId": "_lulzx",
     "avatar": "/avatars/lulzx.png"
   },
   {
     "name": "Krunal Patel",
     "githubId": "kprocks86",
+    "discordId": "kprocks",
     "avatar": "/avatars/kprocks86.png"
+  },
+  {
+    "name": "Anish Rane",
+    "githubId": "AnishRane",
+    "discordId": "stark",
+    "avatar": "/avatars/AnishRane.png"
   }
 ]
