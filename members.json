@@ -78,10 +78,15 @@
     "avatar": "/avatars/shubham138g.jpeg"
   },
   {
+    "name": "Rizwan",
+    "githubId": "rizwanmoulvi",
+    "discordId": "rizwan.eth",
+    "avatar": "/avatars/rizwan.jpg"
+  },
+  {
     "name":"Keerthi",
     "githubId":"dongala-keerthi",
     "discordId":"keerthidongala_53254",
     "avatar":"/avatars/dongala-keerthi.png"
-
   }
 ]
