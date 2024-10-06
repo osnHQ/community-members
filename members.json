@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mohammed Abdul Muqeeth",
+    "githubId": "muqeeth26932",
+    "discordId": "muqeeth26832",
+    "avatar": "/avatars/muqeeth26832.jpg"
+  },
+  {
     "name": "Collins Ochieng",
     "githubId": "Collins331",
     "discordId": "lincoln.collins",
@@ -53,7 +59,7 @@
     "discordId": "circuitstage",
     "avatar": "/avatars/hariseldon84.jpg"
   },
-    {
+  {
     "name": "Karan Goraniya",
     "githubId": "karangoraniya",
     "discordId": "karangoraniya",
@@ -90,15 +96,15 @@
     "avatar": "/avatars/rizwan.jpg"
   },
   {
-    "name":"Keerthi",
-    "githubId":"dongala-keerthi",
-    "discordId":"keerthidongala_53254",
-    "avatar":"/avatars/dongala-keerthi.png"
+    "name": "Keerthi",
+    "githubId": "dongala-keerthi",
+    "discordId": "keerthidongala_53254",
+    "avatar": "/avatars/dongala-keerthi.png"
   },
   {
-    "name":"Elizabeth",
-    "githubId":"elizabeth269",
-    "discordId":"elizabeth_93762",
-    "avatar":"/avatars/elizabeth269.jpeg"
+    "name": "Elizabeth",
+    "githubId": "elizabeth269",
+    "discordId": "elizabeth_93762",
+    "avatar": "/avatars/elizabeth269.jpeg"
   }
 ]
